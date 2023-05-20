@@ -1,9 +1,10 @@
+vi 4-print_alphabt.c
 #include<stdio.h>
 
 /**
  * main - Entry point
  *
- * Description: print all aplhabet letters except q and e
+ * Description: print all alphabet letters except q and e
  *
  * Return: Always 0 (Success)
 */
